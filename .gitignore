@@ -1,0 +1,4 @@
+# Security
+faiss_index/
+*.pkl
+venv/

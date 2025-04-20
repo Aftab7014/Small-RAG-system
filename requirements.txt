@@ -1,0 +1,28 @@
+# Core dependencies
+flask
+python-dotenv
+redis
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-core
+langchain-groq
+
+# Document processing
+pypdf
+
+# Embeddings & ML
+sentence-transformers
+huggingface-hub
+tokenizers
+numpy
+
+# Vector store
+faiss-cpu
+
+# HuggingFace integration
+langchain-huggingface
+
+# Required for type hints
+typing-extensions
